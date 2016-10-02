@@ -1,0 +1,18 @@
+1.	Generate a random float where the value is between 10 and 100 
+2.	Generate a random float where the value is between 5 and 95 
+3.	Write a program to output a random even number between 0 and 10 inclusive using random module and list compression 
+4.	Write a program to output a random number, which is divisible by 5 and 7, between 0 and 10 inclusive using random module and list comprehension.
+5.	Write a program to generate a list with 5 random numbers between 100 and 200 inclusive
+6.	Write a program to randomly generate a list with 5 even numbers between 100 and 200 inclusive.
+7.	Write a program to randomly generate a list with 5 numbers which are divisible by 5 and 7, between 1 and 1000 inclusive.
+8.	Write a program to randomly print a integer number between 7 and 15 inclusive.
+9.	Write a program to shuffle and print the list [3,6,7,8]
+10.	Write a program to shuffle and print the list [3,6,7,8,10,4,5]
+11.	Write a program to print the list after removing  even numbers in [5,6,77,45,22,12,24]
+12.	Using list comprehension, write a program to print the list after removing  numbers which are divisible by 5 and 7 in [1,2,24,12,35,88,70,97,155] 
+13.	Using list comprehension, write a program to print the list after removing the 0th, 2nd , 4th ,6th numbers in [12,24,35,70,88,120,153]
+14.	Using list comprehension, please write a program generate a 3*5*8 3D array whose each element is 0.
+15.	Using list comprehension, please write a program to print the list after removing the 0th, 4th,5th, numbers in [12,24,35,70,88,120,155]
+16.	Using list comprehension, please write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155]
+17.	With a given list [12,24,35,88,120,155,89,155,55], write a program to print this list after removing all duplicate values with original order reserved.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

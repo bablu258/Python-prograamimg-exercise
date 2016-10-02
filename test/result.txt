@@ -1,0 +1,3 @@
+488 is not perfect num 
+12 is not perfect num 
+8999 is not perfect num 
